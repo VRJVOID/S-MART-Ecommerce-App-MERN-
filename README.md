@@ -1,1 +1,1 @@
-# S-MART-Ecommerce-App-MERN-
+# SM-art-Ecommerce-App-MERN-
